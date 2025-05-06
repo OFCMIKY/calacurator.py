@@ -1,2 +1,2 @@
 # calacurator.py
-kalkulacka
+kalkulacka kterou jsem vytvoril
